@@ -1,0 +1,10 @@
+npm install axios
+npm install react-router-dom
+npm install @tanstack/react-query
+npm i react-hook-form
+npm i yup
+npm i @hookform/resolvers
+npm i prop-types
+
+
+change each foldername to src to run individually
